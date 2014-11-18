@@ -9,6 +9,8 @@
 # current install is corrupted or only paritally uninstalled. Only use this script on systems with Deep Security instaled. 
 # You will need to get a copy of DevCon and put it in a Directory on C:\ called Remove-Trend along with this script.
 # Download that here: http://support.microsoft.com/kb/311272
+# Remove Officescan when Uninstall Utility Fails. Requires Devcon Utility. For systems that do not have other Trend products installed. 
+# All trademarks belong to their respective owners, this utility is provided without warranty or guarantee.
 # VERSION HISTORY
 # 1.0 Script created.
 ################################################################################################
